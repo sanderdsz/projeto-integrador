@@ -3,6 +3,7 @@
   <a href="#-layout">Layout</a> •
   <a href="#-technologies">Techs</a> •
   <a href="#-getting-started">Iniciando</a> •
+  <a href="https://projeto-integrador-bice.vercel.app/" target="_blank">Live Demo</a> •
   <a href="#-license">Licença</a>
 </p>
 
@@ -12,9 +13,11 @@
 
 ## 🔖 Design System
 
-Você pode conferir o layout no link abaixo:
+Você pode conferir o layout e o projeto em demonstração nos links abaixo:
 
 - [Projeto Integrador - Figma](https://www.figma.com/file/UNdNdLZa9Az1BxgBM7QG51/Projeto-Integrador?node-id=7%3A2)
+
+- [Live Demo - Projeto](https://projeto-integrador-bice.vercel.app/)
 
 ### Cores
 <p align="center">
